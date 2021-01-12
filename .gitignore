@@ -21,3 +21,5 @@ package-lock.json
 test/stubs-layout-cache/_includes/*.js
 
 .DS_Store 
+
+_site/
